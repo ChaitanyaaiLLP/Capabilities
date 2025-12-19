@@ -101,15 +101,45 @@ ETL/ELT, Real-time processing, Secure data handling, Compliance-ready design
 ---
 
 ## 7. MLOps & AI Infrastructure
-End-to-end AI productionization and scalable deployment.
+We don't stop at model training — we **productionize AI** on your preferred cloud platform.
 
-### 📁 Example Projects
-- [MLflow](https://github.com/mlflow/mlflow) – Model lifecycle management
-- [Kubeflow](https://github.com/kubeflow/kubeflow) – Kubernetes-native MLOps
-- [BentoML](https://github.com/bentoml/BentoML) – Model serving & deployment
+### ☁️ **Cloud-Specific MLOps Architectures**
+We design and implement **end-to-end MLOps pipelines** optimized for:
 
-### 🛠️ Tools
-AWS/Azure/GCP, Docker, Kubernetes, FastAPI, Streamlit, MLflow, DVC
+#### **Azure AI & Machine Learning**
+- **[Azure MLOps Reference Architecture](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper)** – Enterprise-grade MLOps on Azure
+- **[Azure ML Pipelines with GitHub Actions](https://github.com/Azure/mlops-v2)** – CI/CD for machine learning
+- **[Model Monitoring & Drift Detection](https://github.com/Azure/aml-monitoring)** – Production monitoring solutions
+
+#### **AWS SageMaker & AI Services**
+- **[AWS MLOps Framework](https://github.com/awslabs/mlops-framework)** – Scalable MLOps on AWS
+- **[SageMaker MLOps Toolkit](https://github.com/aws-samples/sagemaker-mlops)** – End-to-end pipelines
+- **[MLOps with SageMaker Projects](https://github.com/aws-samples/amazon-sagemaker-mlops)** – Project templates & CI/CD
+
+#### **Google Cloud Vertex AI**
+- **[Vertex AI MLOps Templates](https://github.com/GoogleCloudPlatform/mlops-on-gcp)** – Production pipelines on GCP
+- **[Kubeflow on GCP](https://github.com/kubeflow/pipelines)** – Kubernetes-native workflows
+- **[MLOps with Cloud Build](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)** – Automated deployment
+
+### 🛠️ **What We Handle**
+- End-to-end MLOps pipelines (CI/CD for ML)
+- Model versioning, monitoring & observability
+- Scalable inference pipelines (real-time & batch)
+- Drift detection & automated retraining
+- Cost optimization & performance tuning
+- Multi-cloud & hybrid deployments
+
+### 📁 **Example Projects**
+- **[MLflow on Kubernetes](https://github.com/mlflow/mlflow/tree/master/examples/kubernetes)** – Scalable model management
+- **[Kubeflow Pipelines](https://github.com/kubeflow/pipelines/tree/master/samples)** – Containerized ML workflows
+- **[FastAPI Model Serving](https://github.com/tiangolo/fastapi)** – High-performance inference APIs
+
+### 🔧 **Tools & Platforms**
+- **Cloud:** AWS SageMaker, Azure ML, Google Vertex AI
+- **Orchestration:** Kubernetes, Docker, Terraform
+- **MLOps:** MLflow, DVC, Kubeflow, Airflow
+- **Serving:** FastAPI, TensorFlow Serving, Triton Inference Server
+- **Monitoring:** Prometheus, Grafana, Evidently AI
 
 ---
 
@@ -182,9 +212,9 @@ AI strategy, MVP development, Dedicated teams, Co-engineering, Long-term transfo
 Interested in a tailored AI solution?  
 Contact us for a **free AI feasibility assessment** or **proof-of-concept development**.
 
-**Email:** contact@example.com  
-**Website:** www.example.com  
-**GitHub:** [Your Organization GitHub](https://github.com/your-org)
+**Email:** [info@chaitanyaai.in](info@chaitanyaai.in)  
+**Website:** [www.chaitanyaai.in](www.chaitanyaai.in)   
+**GitHub:** [Chaitanya AI GitHub](https://github.com/chaitanyaaiLLP/)
 
 ---
-*© [Your Company Name]. All referenced projects are open-source examples for demonstration purposes.*
+*© [Chaitanya AI]. All referenced projects are open-source examples for demonstration purposes.*
